@@ -102,34 +102,34 @@ blockquote, q {
 	.bar2::after{
 	  max-width: 80%;
 	}
-	.bar12::after{
-	  max-width: 70%;
-	}
 	.bar3::after{
-	  max-width: 80%;
+	  max-width: 70%;
 	}
 	.bar4::after{
-	  max-width: 70%;
-	}
-	.bar5::after{
-	  max-width: 40%;
-	}
-	.bar6::after{
 	  max-width: 80%;
 	}
+	.bar5::after{
+	  max-width: 70%;
+	}
+	.bar6::after{
+	  max-width: 40%;
+	}
 	.bar7::after{
-	  max-width: 60%;
+	  max-width: 80%;
 	}
 	.bar8::after{
-	  max-width: 50%;
+	  max-width: 60%;
 	}
 	.bar9::after{
-	  max-width: 60%;
+	  max-width: 50%;
 	}
 	.bar10::after{
 	  max-width: 60%;
 	}
 	.bar11::after{
+	  max-width: 60%;
+	}
+	.bar12::after{
 	  max-width: 60%;
 	}
 	@-webkit-keyframes bar-before{
