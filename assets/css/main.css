@@ -97,10 +97,13 @@ blockquote, q {
 	  z-index: -1;
 	}
 	.bar1::after{
-	  max-width: 60%;
+	  max-width: 75%;
 	}
 	.bar2::after{
-	  max-width: 72%;
+	  max-width: 80%;
+	}
+	.bar2.5::after{
+	  max-width: 70%;
 	}
 	.bar3::after{
 	  max-width: 80%;
